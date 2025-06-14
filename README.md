@@ -4,6 +4,8 @@ A real-time multiplayer 3D dragon combat flight simulator built for the web. Pla
 
 ![Dragon Strike](https://img.shields.io/badge/Game-Multiplayer-blue) ![Tech](https://img.shields.io/badge/Tech-WebGL%20%7C%20Node.js-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+<img src="dragon-game-screenshot.jpg">
+
 ## 🎮 Game Features
 
 ### Core Gameplay
